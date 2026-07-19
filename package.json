@@ -1,5 +1,5 @@
 {
-  "name": "kzmv-skills-rpi",
+  "name": "base-skills",
   "version": "1.0.0",
   "description": "kzmv agent skills package",
   "keywords": ["skills-npm"],
